@@ -1,0 +1,57 @@
+topic: Vogais, Umlaut e ß
+level: A1
+questions:
+  - type: multiple_choice
+    question: Quais são os Umlaute do alemão?
+    options:
+      - ä, ö, ü
+      - a, e, i
+      - s, ss, ß
+    answer: ä, ö, ü
+  - type: fill_blank
+    question: "Complete com ß ou ss: Stra___e"
+    answer: ß
+  - type: multiple_choice
+    question: Qual palavra usa ss?
+    options:
+      - Wasser
+      - Fuß
+      - groß
+    answer: Wasser
+  - type: multiple_choice
+    question: Qual palavra usa ß?
+    options:
+      - Straße
+      - essen
+      - müssen
+    answer: Straße
+  - type: fill_blank
+    question: "Complete com Umlaut: sch___n"
+    answer: ö
+  - type: fill_blank
+    question: "Complete com Umlaut: gr___n"
+    answer: ü
+  - type: multiple_choice
+    question: Em alemão padrão, ß costuma aparecer depois de...
+    options:
+      - vogal longa ou ditongo
+      - vogal curta
+      - qualquer consoante dupla
+    answer: vogal longa ou ditongo
+  - type: multiple_choice
+    question: Quando não é possível digitar ü, a alternativa comum é...
+    options:
+      - ue
+      - uu
+      - uy
+    answer: ue
+  - type: multiple_choice
+    question: Qual palavra significa "o pé"?
+    options:
+      - der Fuß
+      - die Straße
+      - das Wasser
+    answer: der Fuß
+  - type: fill_blank
+    question: "Complete: Ich ___ Ana."
+    answer: heiße

@@ -1,0 +1,59 @@
+topic: Vogais, Umlaut e ß
+level: A1
+cards:
+  - front: a, e, i, o, u
+    back: vogais básicas do alemão
+    example: A, E, I, O, U sind Vokale.
+    example_translation: A, E, I, O, U são vogais.
+  - front: ä
+    back: Umlaut com som parecido com e aberto
+    example: Mädchen hat ein ä.
+    example_translation: Mädchen tem um ä.
+  - front: ö
+    back: Umlaut arredondado entre e e o
+    example: Schön hat ein ö.
+    example_translation: Schön tem um ö.
+  - front: ü
+    back: Umlaut arredondado parecido com i com boca de u
+    example: Grün hat ein ü.
+    example_translation: Grün tem um ü.
+  - front: ß
+    back: Eszett; som de s forte depois de vogal longa ou ditongo
+    example: Straße hat ein ß.
+    example_translation: Straße tem um ß.
+  - front: ss
+    back: som de s forte depois de vogal curta
+    example: Wasser hat ss.
+    example_translation: Wasser tem ss.
+  - front: der Fuß
+    back: o pé
+    example: Mein Fuß tut weh.
+    example_translation: Meu pé dói.
+  - front: die Straße
+    back: a rua
+    example: Die Straße ist lang.
+    example_translation: A rua é longa.
+  - front: groß
+    back: grande
+    example: Berlin ist groß.
+    example_translation: Berlim é grande.
+  - front: heißen
+    back: chamar-se
+    example: Ich heiße Ana.
+    example_translation: Eu me chamo Ana.
+  - front: das Wasser
+    back: a água
+    example: Das Wasser ist kalt.
+    example_translation: A água está fria.
+  - front: müssen
+    back: precisar; ter que
+    example: Wir müssen lernen.
+    example_translation: Nós precisamos estudar.
+  - front: schön
+    back: bonito; bonita
+    example: Das ist schön.
+    example_translation: Isso é bonito.
+  - front: grün
+    back: verde
+    example: Die Tür ist grün.
+    example_translation: A porta é verde.

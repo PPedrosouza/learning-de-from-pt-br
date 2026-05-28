@@ -1,0 +1,115 @@
+topic: Vogais, Umlaut e ß
+level: A1
+words:
+  - german: der Vokal
+    translation: a vogal
+    type: noun
+    gender: masculine
+    plural: die Vokale
+    example: A ist ein Vokal.
+    example_translation: A é uma vogal.
+  - german: der Umlaut
+    translation: o trema alemão
+    type: noun
+    gender: masculine
+    plural: die Umlaute
+    example: Ä, Ö und Ü sind Umlaute.
+    example_translation: Ä, Ö e Ü são tremas alemães.
+  - german: das Zeichen
+    translation: o sinal; o caractere
+    type: noun
+    gender: neuter
+    plural: die Zeichen
+    example: ß ist ein Zeichen.
+    example_translation: ß é um caractere.
+  - german: der Fuß
+    translation: o pé
+    type: noun
+    gender: masculine
+    plural: die Füße
+    example: Mein Fuß tut weh.
+    example_translation: Meu pé dói.
+  - german: die Straße
+    translation: a rua
+    type: noun
+    gender: feminine
+    plural: die Straßen
+    example: Die Straße ist lang.
+    example_translation: A rua é longa.
+  - german: groß
+    translation: grande
+    type: adjective
+    gender: null
+    plural: null
+    example: Berlin ist groß.
+    example_translation: Berlim é grande.
+  - german: heißen
+    translation: chamar-se
+    type: verb
+    gender: null
+    plural: null
+    example: Ich heiße Ana.
+    example_translation: Eu me chamo Ana.
+  - german: das Wasser
+    translation: a água
+    type: noun
+    gender: neuter
+    plural: null
+    example: Das Wasser ist kalt.
+    example_translation: A água está fria.
+  - german: essen
+    translation: comer
+    type: verb
+    gender: null
+    plural: null
+    example: Wir essen Brot.
+    example_translation: Nós comemos pão.
+  - german: müssen
+    translation: precisar; ter que
+    type: verb
+    gender: null
+    plural: null
+    example: Wir müssen lernen.
+    example_translation: Nós precisamos estudar.
+  - german: das Mädchen
+    translation: a menina
+    type: noun
+    gender: neuter
+    plural: die Mädchen
+    example: Das Mädchen lernt Deutsch.
+    example_translation: A menina aprende alemão.
+  - german: schön
+    translation: bonito; bonita
+    type: adjective
+    gender: null
+    plural: null
+    example: Das ist schön.
+    example_translation: Isso é bonito.
+  - german: grün
+    translation: verde
+    type: adjective
+    gender: null
+    plural: null
+    example: Die Tür ist grün.
+    example_translation: A porta é verde.
+  - german: die Tür
+    translation: a porta
+    type: noun
+    gender: feminine
+    plural: die Türen
+    example: Die Tür ist offen.
+    example_translation: A porta está aberta.
+  - german: der Schlüssel
+    translation: a chave
+    type: noun
+    gender: masculine
+    plural: die Schlüssel
+    example: Der Schlüssel ist hier.
+    example_translation: A chave está aqui.
+  - german: die Küche
+    translation: a cozinha
+    type: noun
+    gender: feminine
+    plural: die Küchen
+    example: Die Küche ist klein.
+    example_translation: A cozinha é pequena.

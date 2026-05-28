@@ -1,0 +1,114 @@
+topic: Vogais, Umlaut e ß
+level: A1
+exercises:
+  - type: multiple_choice
+    instruction: Escolha a alternativa correta.
+    items:
+      - question: Qual palavra contém Umlaut?
+        options:
+          - Mädchen
+          - Name
+          - Haus
+        answer: Mädchen
+      - question: Qual palavra contém ß?
+        options:
+          - Straße
+          - Wasser
+          - Sonne
+        answer: Straße
+      - question: Qual palavra contém ss?
+        options:
+          - Fuß
+          - groß
+          - Wasser
+        answer: Wasser
+      - question: Quais são os Umlaute do alemão?
+        options:
+          - ä, ö, ü
+          - a, e, i
+          - b, c, d
+        answer: ä, ö, ü
+
+  - type: fill_blank
+    instruction: Complete com ß ou ss.
+    items:
+      - question: Stra___e
+        answer: ß
+      - question: Wa___er
+        answer: ss
+      - question: hei___en
+        answer: ß
+      - question: mü___en
+        answer: ss
+      - question: Fu___
+        answer: ß
+
+  - type: multiple_choice
+    instruction: Escolha a regra ou observação correta.
+    items:
+      - question: Depois de vogal curta, o alemão geralmente escreve...
+        options:
+          - ss
+          - ß
+          - ae
+        answer: ss
+      - question: Depois de vogal longa ou ditongo, o alemão padrão geralmente escreve...
+        options:
+          - ß
+          - ss
+          - oe
+        answer: ß
+      - question: Em der Fuß, a vogal u é...
+        options:
+          - longa
+          - curta
+          - muda
+        answer: longa
+      - question: Em das Wasser, a vogal a é...
+        options:
+          - curta
+          - longa
+          - muda
+        answer: curta
+
+  - type: fill_blank
+    instruction: Complete com ä, ö ou ü.
+    items:
+      - question: das M___dchen
+        answer: ä
+      - question: sch___n
+        answer: ö
+      - question: gr___n
+        answer: ü
+      - question: die T___r
+        answer: ü
+      - question: die K___che
+        answer: ü
+
+  - type: multiple_choice
+    instruction: Escolha a tradução correta.
+    items:
+      - question: die Straße
+        options:
+          - a rua
+          - a porta
+          - a cozinha
+        answer: a rua
+      - question: der Fuß
+        options:
+          - o pé
+          - a água
+          - a chave
+        answer: o pé
+      - question: schön
+        options:
+          - bonito
+          - verde
+          - pequeno
+        answer: bonito
+      - question: grün
+        options:
+          - verde
+          - grande
+          - frio
+        answer: verde
