@@ -1,0 +1,61 @@
+topic: Alfabeto alemão e sons básicos
+level: A1
+questions:
+  - type: multiple_choice
+    question: Qual frase significa "Eu me chamo Ana"?
+    options:
+      - Ich heiße Ana.
+      - Mein Ana ist Name.
+      - Wie heißt Ana?
+    answer: Ich heiße Ana.
+  - type: multiple_choice
+    question: Qual pergunta pede a soletração de uma palavra?
+    options:
+      - Wie buchstabiert man das?
+      - Wo wohnst du?
+      - Wie alt bist du?
+    answer: Wie buchstabiert man das?
+  - type: fill_blank
+    question: "Complete: Mein ___ ist Lena."
+    answer: Name
+  - type: fill_blank
+    question: Soletre "Lena" com letras maiúsculas e hifens.
+    answer: L-E-N-A
+  - type: multiple_choice
+    question: Em alemão, W normalmente tem som de...
+    options:
+      - V em português
+      - J em português
+      - LH em português
+    answer: V em português
+  - type: multiple_choice
+    question: Em alemão, Z normalmente tem som de...
+    options:
+      - TS
+      - NH
+      - R
+    answer: TS
+  - type: multiple_choice
+    question: Quais letras são Umlaute?
+    options:
+      - ä, ö, ü
+      - a, e, i
+      - b, c, d
+    answer: ä, ö, ü
+  - type: fill_blank
+    question: "Complete: Bitte ___ Sie langsam."
+    answer: buchstabieren
+  - type: multiple_choice
+    question: Qual palavra significa "a letra"?
+    options:
+      - der Buchstabe
+      - der Name
+      - das Alphabet
+    answer: der Buchstabe
+  - type: multiple_choice
+    question: O que é ß?
+    options:
+      - Eszett
+      - Umlaut
+      - vírgula
+    answer: Eszett

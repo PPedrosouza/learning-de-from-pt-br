@@ -1,0 +1,51 @@
+topic: Alfabeto alemão e sons básicos
+level: A1
+cards:
+  - front: das Alphabet
+    back: o alfabeto
+    example: Ich lerne das Alphabet.
+    example_translation: Eu aprendo o alfabeto.
+  - front: der Buchstabe
+    back: a letra
+    example: B ist ein Buchstabe.
+    example_translation: B é uma letra.
+  - front: buchstabieren
+    back: soletrar
+    example: Bitte buchstabieren Sie.
+    example_translation: Por favor, soletre.
+  - front: Wie buchstabiert man das?
+    back: Como se soletra isso?
+    example: Wie buchstabiert man Maria?
+    example_translation: Como se soletra Maria?
+  - front: Ich heiße...
+    back: Eu me chamo...
+    example: Ich heiße Ana.
+    example_translation: Eu me chamo Ana.
+  - front: Mein Name ist...
+    back: Meu nome é...
+    example: Mein Name ist Bruno.
+    example_translation: Meu nome é Bruno.
+  - front: W
+    back: letra W; em palavras alemãs, costuma ter som de V
+    example: Wasser beginnt mit W.
+    example_translation: Wasser começa com W.
+  - front: V
+    back: letra V; em muitas palavras alemãs, soa como F
+    example: Vater beginnt mit V.
+    example_translation: Vater começa com V.
+  - front: J
+    back: letra J; soa como I em "ia"
+    example: Ja beginnt mit J.
+    example_translation: Ja começa com J.
+  - front: Z
+    back: letra Z; soa como TS
+    example: Zeit beginnt mit Z.
+    example_translation: Zeit começa com Z.
+  - front: ä, ö, ü
+    back: vogais com Umlaut
+    example: Ä, Ö und Ü sind Umlaute.
+    example_translation: Ä, Ö e Ü são vogais com Umlaut.
+  - front: ß
+    back: Eszett; representa som de S forte
+    example: Straße hat ein ß.
+    example_translation: Straße tem um ß.

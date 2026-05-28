@@ -1,0 +1,87 @@
+topic: Alfabeto alemão e sons básicos
+level: A1
+words:
+  - german: das Alphabet
+    translation: o alfabeto
+    type: noun
+    gender: neuter
+    plural: die Alphabete
+    example: Das Alphabet ist wichtig.
+    example_translation: O alfabeto é importante.
+  - german: der Buchstabe
+    translation: a letra
+    type: noun
+    gender: masculine
+    plural: die Buchstaben
+    example: A ist ein Buchstabe.
+    example_translation: A é uma letra.
+  - german: buchstabieren
+    translation: soletrar
+    type: verb
+    gender: null
+    plural: null
+    example: Ich buchstabiere meinen Namen.
+    example_translation: Eu soletro meu nome.
+  - german: der Name
+    translation: o nome
+    type: noun
+    gender: masculine
+    plural: die Namen
+    example: Mein Name ist Anna.
+    example_translation: Meu nome é Anna.
+  - german: heißen
+    translation: chamar-se
+    type: verb
+    gender: null
+    plural: null
+    example: Ich heiße Maria.
+    example_translation: Eu me chamo Maria.
+  - german: Wie buchstabiert man das?
+    translation: Como se soletra isso?
+    type: phrase
+    gender: null
+    plural: null
+    example: Wie buchstabiert man das? A-N-A.
+    example_translation: Como se soletra isso? A-N-A.
+  - german: langsam
+    translation: devagar
+    type: adverb
+    gender: null
+    plural: null
+    example: Bitte langsam.
+    example_translation: Por favor, devagar.
+  - german: bitte
+    translation: por favor
+    type: word
+    gender: null
+    plural: null
+    example: Buchstabieren Sie bitte.
+    example_translation: Soletre, por favor.
+  - german: wiederholen
+    translation: repetir
+    type: verb
+    gender: null
+    plural: null
+    example: Wiederholen Sie bitte.
+    example_translation: Repita, por favor.
+  - german: richtig
+    translation: correto
+    type: adjective
+    gender: null
+    plural: null
+    example: Das ist richtig.
+    example_translation: Isso está correto.
+  - german: falsch
+    translation: errado
+    type: adjective
+    gender: null
+    plural: null
+    example: Das ist falsch.
+    example_translation: Isso está errado.
+  - german: der Umlaut
+    translation: o trema alemão
+    type: noun
+    gender: masculine
+    plural: die Umlaute
+    example: Ä, Ö und Ü sind Umlaute.
+    example_translation: Ä, Ö e Ü são tremas alemães.

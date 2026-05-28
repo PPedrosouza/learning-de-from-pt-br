@@ -1,0 +1,80 @@
+topic: Alfabeto alemão e sons básicos
+level: A1
+exercises:
+  - type: multiple_choice
+    instruction: Escolha a tradução correta.
+    items:
+      - question: das Alphabet
+        options:
+          - o alfabeto
+          - o nome
+          - a letra
+        answer: o alfabeto
+      - question: der Buchstabe
+        options:
+          - o som
+          - a letra
+          - o sobrenome
+        answer: a letra
+      - question: buchstabieren
+        options:
+          - ler
+          - soletrar
+          - escrever
+        answer: soletrar
+
+  - type: fill_blank
+    instruction: Complete as frases com a palavra correta.
+    items:
+      - question: Ich ___ Ana.
+        answer: heiße
+      - question: Mein ___ ist Bruno.
+        answer: Name
+      - question: Wie ___ man das?
+        answer: buchstabiert
+      - question: Bitte ___ langsam.
+        answer: buchstabieren
+
+  - type: multiple_choice
+    instruction: Escolha a alternativa correta sobre sons básicos do alemão.
+    items:
+      - question: Em alemão, a letra W normalmente soa como...
+        options:
+          - V em português
+          - J em português
+          - Z em português
+        answer: V em português
+      - question: Em alemão, a letra J normalmente soa como...
+        options:
+          - R em português
+          - I em "ia"
+          - CH em "chá"
+        answer: I em "ia"
+      - question: Em alemão, a letra Z normalmente soa como...
+        options:
+          - TS
+          - SS
+          - LH
+        answer: TS
+
+  - type: fill_blank
+    instruction: Escreva a soletração com letras maiúsculas e hifens.
+    items:
+      - question: Ana
+        answer: A-N-A
+      - question: Bruno
+        answer: B-R-U-N-O
+      - question: Lena
+        answer: L-E-N-A
+      - question: Otto
+        answer: O-T-T-O
+
+  - type: multiple_choice
+    instruction: Escolha a pergunta correta para pedir soletração.
+    items:
+      - question: Como se pergunta "Como se soletra isso?" em alemão?
+        options:
+          - Wie heißt du?
+          - Wie buchstabiert man das?
+          - Was ist das?
+        answer: Wie buchstabiert man das?
