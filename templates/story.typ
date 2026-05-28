@@ -1,4 +1,6 @@
-#let topic = sys.inputs.at("topic", default: "topics/a1/02-greetings")
+#import "@preview/cmarker:0.1.3": render
+
+#let topic = sys.inputs.at("topic", default: "topics/a1/001-alfabeto-alemao-e-sons-basicos")
 #let story = read(topic + "/story.md")
 
 #set document(title: "German Story")
@@ -13,4 +15,4 @@
   #v(0.4em)
 ]
 
-#story
+#render(story)

@@ -1,11 +1,11 @@
-#let topic = sys.inputs.at("topic", default: "topics/a1/02-greetings")
+#let topic = sys.inputs.at("topic", default: "topics/a1/001-alfabeto-alemao-e-sons-basicos")
 #let test = yaml(topic + "/test.yaml")
 
 #set document(title: test.topic + " Test")
-#set page(paper: "a4", margin: (x: 2cm, y: 2cm))
-#set text(size: 11pt, lang: "en")
+#set page(paper: "a4", margin: (x: 1.6cm, y: 1.6cm))
+#set text(size: 10.5pt, lang: "en")
 #set heading(numbering: "1.")
-#set par(leading: 0.65em)
+#set par(leading: 0.5em)
 
 #show heading: it => [
   #v(0.8em)
@@ -19,16 +19,21 @@ Level: #test.level
 
 Name: #line(length: 7cm) Date: #line(length: 4cm)
 
-#v(1em)
+#v(0.7em)
 
-#for question in test.questions [
-  - #question.question
+#for (index, question) in test.questions.enumerate() [
+  #strong(str(index + 1) + ".") #question.question
 
   #if "options" in question [
-    #for option in question.options [
-      - #option
-    ]
+    #grid(
+      columns: (1fr, 1fr, 1fr),
+      gutter: 6pt,
+      ..question.options.map(option => [□ #option])
+    )
+  ] else [
+    #v(0.25em)
+    #line(length: 100%, stroke: 0.45pt)
   ]
 
-  #v(1.2cm)
+  #v(0.6cm)
 ]
