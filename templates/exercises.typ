@@ -31,6 +31,22 @@
   kind.replace("_", " ")
 }
 
+#let exercise-instruction(exercise) = if "instruction" in exercise {
+  exercise.instruction
+} else if "instructions" in exercise {
+  exercise.instructions
+} else {
+  "Resolva os itens abaixo."
+}
+
+#let exercise-heading(exercise) = if "type" in exercise {
+  exercise-title(exercise.type)
+} else if "title" in exercise {
+  exercise.title
+} else {
+  "Exercício"
+}
+
 #let option-chip(choice) = block(
   width: 100%,
   fill: surface,
@@ -79,9 +95,9 @@
     #grid(columns: (auto, 1fr), gutter: 6pt, align: horizon)[
       #number-badge(str(number), fill: teal)
       #block(width: 100%)[
-        #text(font: ui-font, size: 10.6pt, weight: "black", fill: ink)[#exercise-title(exercise.type)]
+        #text(font: ui-font, size: 10.6pt, weight: "black", fill: ink)[#exercise-heading(exercise)]
         #v(0.06em)
-        #text(font: ui-font, size: 7.8pt, weight: "bold", fill: muted)[#exercise.instruction]
+        #text(font: ui-font, size: 7.8pt, weight: "bold", fill: muted)[#exercise-instruction(exercise)]
       ]
     ]
   ]

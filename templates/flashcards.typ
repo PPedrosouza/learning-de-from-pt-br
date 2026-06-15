@@ -2,6 +2,8 @@
 
 #let topic = sys.inputs.at("topic", default: "topics/a1/001-alfabeto-alemao-e-sons-basicos")
 #let data = yaml(topic + "/flashcards.yaml")
+#let topic-title = data.at("topic", default: "Tópico")
+#let topic-level = data.at("level", default: "A1")
 
 #show: doc => workbook(doc, title: "Cartões de estudo de alemão", kind: "Cartões", accent: rose, margin: (x: 1.05cm, y: 1.05cm), body-size: 9.2pt)
 
@@ -26,10 +28,10 @@
   #text(size: 7pt, style: "italic", fill: muted)[#card.example_translation]]
 ]
 
-#hero("Cartões de estudo", kind: "Cartões", level: data.level, accent: rose)
+#hero("Cartões de estudo", kind: "Cartões", level: topic-level, accent: rose)
 
 #v(0.25em)
-#pill(data.topic, fill: amber-soft, stroke: amber)
+#pill(topic-title, fill: amber-soft, stroke: amber)
 #v(0.35em)
 
 #grid(

@@ -5,7 +5,7 @@ target_locale: en_US
 source_language: Brazilian Portuguese
 source_language_pt: português brasileiro
 source_locale: pt_BR
-target_voice: en_US-lessac-low
+target_voice: en_US-joe-medium
 source_voice: pt_BR-cadu-medium
 anki_deck_name: Inglês
 anki_model_name: Inglês PT-BR (com áudio)
