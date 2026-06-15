@@ -1,0 +1,77 @@
+topic: Números, datas e horários
+level: A1
+questions:
+  - type: multiple_choice
+    question: Qual opção completa corretamente? The client call is ___ 11.
+    options:
+      - at
+      - on
+      - in
+    answer: at
+  - type: fill_blank
+    question: 50 -> ___
+    answer: fifty
+  - type: multiple_choice
+    question: Qual frase está correta para "na terça-feira"?
+    options:
+      - in Tuesday
+      - on Tuesday
+      - at Tuesday
+    answer: on Tuesday
+  - type: translation
+    question: "Traduza: A planning é às 2:30."
+    answer: The planning is at 2:30.
+  - type: multiple_choice
+    question: Qual opção significa "em setembro"?
+    options:
+      - on September
+      - at September
+      - in September
+    answer: in September
+  - type: fill_blank
+    question: Version 3.1 = version three ___ one.
+    answer: point
+  - type: correction
+    question: "Corrija: The retro is in Friday."
+    answer: The retro is on Friday.
+  - type: translation
+    question: "Traduza: Temos vinte tickets."
+    answer: We have twenty tickets.
+  - type: multiple_choice
+    question: Como se escreve 30 em inglês?
+    options:
+      - thirty
+      - thirteen
+      - tree-ty
+    answer: thirty
+  - type: fill_blank
+    question: The launch is ___ October.
+    answer: in
+  - type: correction
+    question: "Corrija: Version 2.0 is two comma zero."
+    answer: Version 2.0 is two point zero.
+  - type: translation
+    question: "Traduza: A demo é em 5 de maio."
+    answer: The demo is on May 5.
+  - type: multiple_choice
+    question: Qual frase inclui fuso horário de forma simples?
+    options:
+      - The meeting is in 9.
+      - The meeting is on BRT.
+      - The meeting is at 9 BRT.
+    answer: The meeting is at 9 BRT.
+  - type: fill_blank
+    question: 1000 -> one ___
+    answer: thousand
+  - type: correction
+    question: "Corrija: The update is on 2026."
+    answer: The update is in 2026.
+  - type: short_answer
+    question: "Responda em inglês: quando começa a sprint? Use Wednesday."
+    answer: The sprint starts on Wednesday.
+  - type: fill_blank
+    question: The release is ___ November 18.
+    answer: on
+  - type: translation
+    question: "Traduza: Estou em UTC."
+    answer: I am in UTC.

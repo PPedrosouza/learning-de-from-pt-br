@@ -1,0 +1,70 @@
+topic: Pronomes pessoais e possessivos
+level: A1
+exercises:
+  - type: fill_blank
+    instruction: Complete com o pronome pessoal correto em inglês.
+    items:
+      - question: "Ana is a designer. ___ is on the product team."
+        answer: She
+      - question: "The repository is private. ___ is for our team."
+        answer: It
+      - question: "Leo and Max are online. ___ are in the meeting."
+        answer: They
+      - question: "Bia and I are developers. ___ are on the backend team."
+        answer: We
+  - type: multiple_choice
+    instruction: Escolha o possessivo correto para completar a frase.
+    items:
+      - question: "I have a laptop. It is ___ laptop."
+        options: [my, his, their]
+        answer: my
+      - question: "Carla has a ticket. It is ___ ticket."
+        options: [our, her, your]
+        answer: her
+      - question: "The team has a tool. It is ___ tool."
+        options: [his, my, their]
+        answer: their
+  - type: transformation
+    instruction: Substitua a parte destacada pelo pronome pessoal correto.
+    items:
+      - question: "Marcos is a tester."
+        answer: "He is a tester."
+      - question: "The app is ready."
+        answer: "It is ready."
+      - question: "Rafa and Nina are colleagues."
+        answer: "They are colleagues."
+      - question: "You and I are in the sprint."
+        answer: "We are in the sprint."
+  - type: translation
+    instruction: Traduza para o inglês usando pronome ou possessivo.
+    items:
+      - question: "Ela é minha colega."
+        answer: "She is my colleague."
+      - question: "É o nosso repositório."
+        answer: "It is our repository."
+      - question: "Eles estão no projeto deles."
+        answer: "They are on their project."
+      - question: "Você está no seu laptop."
+        answer: "You are on your laptop."
+  - type: classification
+    instruction: Classifique como pronome pessoal ou possessivo.
+    items:
+      - question: I
+        answer: pronome pessoal
+      - question: our
+        answer: possessivo
+      - question: they
+        answer: pronome pessoal
+      - question: his
+        answer: possessivo
+      - question: it
+        answer: pronome pessoal
+  - type: short_production
+    instruction: Escreva uma frase curta em inglês seguindo a pista.
+    items:
+      - question: "Diga que o bug está aberto."
+        answer: "It is open."
+      - question: "Diga que seu time é pequeno."
+        answer: "Our team is small."
+      - question: "Diga que ela está na reunião."
+        answer: "She is in the meeting."

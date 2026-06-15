@@ -1,0 +1,55 @@
+topic: Artigos e substantivos básicos
+level: A1
+cards:
+  - front: a laptop
+    back: um laptop
+    example: I have a laptop.
+    example_translation: Eu tenho um laptop.
+  - front: an email
+    back: um e-mail
+    example: I have an email from support.
+    example_translation: Eu tenho um e-mail do suporte.
+  - front: the screen
+    back: a tela
+    example: The screen is black.
+    example_translation: A tela está preta.
+  - front: a keyboard
+    back: um teclado
+    example: We need a keyboard.
+    example_translation: Precisamos de um teclado.
+  - front: a meeting
+    back: uma reunião
+    example: I have a meeting today.
+    example_translation: Eu tenho uma reunião hoje.
+  - front: a ticket
+    back: um ticket; um chamado
+    example: Please open a ticket.
+    example_translation: Por favor, abra um ticket.
+  - front: a branch
+    back: uma branch; uma ramificação
+    example: This is a new branch.
+    example_translation: Esta é uma nova branch.
+  - front: laptops
+    back: laptops
+    example: Two laptops are ready.
+    example_translation: Dois laptops estão prontos.
+  - front: branches
+    back: branches; ramificações
+    example: The branches are old.
+    example_translation: As branches estão antigas.
+  - front: people
+    back: pessoas
+    example: Four people are online.
+    example_translation: Quatro pessoas estão online.
+  - front: men
+    back: homens
+    example: Two men are in the call.
+    example_translation: Dois homens estão na chamada.
+  - front: women
+    back: mulheres
+    example: Three women are on the team.
+    example_translation: Três mulheres estão na equipe.
+  - front: children
+    back: crianças
+    example: The children use tablets.
+    example_translation: As crianças usam tablets.

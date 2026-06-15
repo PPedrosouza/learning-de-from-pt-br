@@ -1,0 +1,41 @@
+cards:
+  - front: at 9
+    back: às 9
+    example: The stand-up is at 9.
+    example_translation: A stand-up é às 9.
+  - front: on Monday
+    back: na segunda-feira
+    example: The sprint starts on Monday.
+    example_translation: A sprint começa na segunda-feira.
+  - front: in June
+    back: em junho
+    example: The release is in June.
+    example_translation: O lançamento é em junho.
+  - front: on June 10
+    back: em 10 de junho
+    example: The demo is on June 10.
+    example_translation: A demo é em 10 de junho.
+  - front: version 1.2
+    back: versão 1.2
+    example: Version 1.2 is ready.
+    example_translation: A versão 1.2 está pronta.
+  - front: one point zero
+    back: um ponto zero
+    example: Version one point zero is stable.
+    example_translation: A versão um ponto zero está estável.
+  - front: timezone
+    back: fuso horário
+    example: What is your timezone?
+    example_translation: Qual é o seu fuso horário?
+  - front: BRT
+    back: horário de Brasília
+    example: The meeting is at 9 BRT.
+    example_translation: A reunião é às 9 BRT.
+  - front: forty
+    back: quarenta
+    example: We need forty minutes.
+    example_translation: Precisamos de quarenta minutos.
+  - front: one hundred
+    back: cem
+    example: The report has one hundred lines.
+    example_translation: O relatório tem cem linhas.

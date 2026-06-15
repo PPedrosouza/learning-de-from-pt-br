@@ -1,0 +1,55 @@
+topic: Pronomes pessoais e possessivos
+level: A1
+cards:
+  - front: I
+    back: eu
+    example: I am on the team.
+    example_translation: Eu estou no time.
+  - front: you
+    back: você; vocês
+    example: You are my colleague.
+    example_translation: Você é meu/minha colega.
+  - front: he
+    back: ele
+    example: He is a developer.
+    example_translation: Ele é desenvolvedor.
+  - front: she
+    back: ela
+    example: She is a designer.
+    example_translation: Ela é designer.
+  - front: it
+    back: ele; ela; isso, para coisas, sistemas e bugs
+    example: It is a new app.
+    example_translation: É um app novo.
+  - front: we
+    back: nós
+    example: We are in the meeting.
+    example_translation: Nós estamos na reunião.
+  - front: they
+    back: eles; elas
+    example: They are on the project.
+    example_translation: Eles/elas estão no projeto.
+  - front: my
+    back: meu; minha
+    example: My ticket is open.
+    example_translation: Meu ticket está aberto.
+  - front: your
+    back: seu; sua; de vocês
+    example: Your repository is public.
+    example_translation: Seu repositório é público.
+  - front: his
+    back: dele
+    example: His laptop is new.
+    example_translation: O laptop dele é novo.
+  - front: her
+    back: dela
+    example: Her branch is ready.
+    example_translation: A branch dela está pronta.
+  - front: our
+    back: nosso; nossa
+    example: Our tool is simple.
+    example_translation: Nossa ferramenta é simples.
+  - front: their
+    back: deles; delas
+    example: Their app is online.
+    example_translation: O app deles/delas está online.

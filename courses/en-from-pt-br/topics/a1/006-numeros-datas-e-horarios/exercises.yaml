@@ -1,0 +1,110 @@
+topic: Números, datas e horários
+level: A1
+exercises:
+  - type: multiple_choice
+    instruction: Escolha a opção correta.
+    items:
+      - question: Como se escreve 40 em inglês?
+        options:
+          - forty
+          - fourty
+          - fourteen
+        answer: forty
+      - question: Qual frase usa a preposição correta para horário?
+        options:
+          - The stand-up is on 9.
+          - The stand-up is at 9.
+          - The stand-up is in 9.
+        answer: The stand-up is at 9.
+      - question: Qual opção significa "em junho"?
+        options:
+          - on June
+          - at June
+          - in June
+        answer: in June
+      - question: Como ler a versão 1.2?
+        options:
+          - one point two
+          - one comma two
+          - first two
+        answer: one point two
+
+  - type: fill_blank
+    instruction: Complete com at, on ou in.
+    items:
+      - question: The meeting is ___ 10:30.
+        answer: at
+      - question: The sprint starts ___ Monday.
+        answer: on
+      - question: The release is ___ July.
+        answer: in
+      - question: The demo is ___ June 10.
+        answer: on
+      - question: The call is ___ noon.
+        answer: at
+      - question: The update is ___ 2026.
+        answer: in
+
+  - type: fill_blank
+    instruction: Escreva o número em inglês.
+    items:
+      - question: 12 -> ___
+        answer: twelve
+      - question: 20 -> ___
+        answer: twenty
+      - question: 35 -> ___
+        answer: thirty-five
+      - question: 100 -> ___
+        answer: one hundred
+      - question: 1000 -> ___
+        answer: one thousand
+
+  - type: translation
+    instruction: Traduza para o inglês.
+    items:
+      - question: A stand-up é às 9.
+        answer: The stand-up is at 9.
+      - question: A sprint termina na sexta-feira.
+        answer: The sprint ends on Friday.
+      - question: O lançamento é em junho.
+        answer: The release is in June.
+      - question: A versão 2.0 está pronta.
+        answer: Version 2.0 is ready.
+      - question: Eu estou no BRT.
+        answer: I am in BRT.
+
+  - type: transformation
+    instruction: Reescreva usando a preposição correta.
+    items:
+      - question: Monday -> The planning is ___ Monday.
+        answer: The planning is on Monday.
+      - question: 8:15 -> The sync is ___ 8:15.
+        answer: The sync is at 8:15.
+      - question: August -> The release is ___ August.
+        answer: The release is in August.
+      - question: June 22 -> The review is ___ June 22.
+        answer: The review is on June 22.
+
+  - type: correction
+    instruction: Corrija a frase errada.
+    items:
+      - question: The meeting is on 9.
+        answer: The meeting is at 9.
+      - question: The sprint starts in Monday.
+        answer: The sprint starts on Monday.
+      - question: The release is on July.
+        answer: The release is in July.
+      - question: Version 1.0 is one comma zero.
+        answer: Version 1.0 is one point zero.
+      - question: We need fourty minutes.
+        answer: We need forty minutes.
+
+  - type: short_answer
+    instruction: Responda em inglês com uma frase curta.
+    items:
+      - question: Quando é sua stand-up? Use 9 BRT.
+        answer: My stand-up is at 9 BRT.
+      - question: Quando começa a sprint? Use Monday.
+        answer: The sprint starts on Monday.
+      - question: Quando é o release? Use June.
+        answer: The release is in June.

@@ -1,0 +1,80 @@
+topic: Sons, alfabeto e nomes técnicos
+level: A1
+exercises:
+  - type: multiple_choice
+    title: Reconhecimento de frases úteis
+    instructions: Escolha a melhor opção em inglês.
+    items:
+      - id: 1
+        question: Como pedir para alguém soletrar uma informação?
+        options:
+          - "Can you spell that?"
+          - "Can you open that?"
+          - "Can you delete that?"
+        answer: "Can you spell that?"
+      - id: 2
+        question: Qual palavra representa ponto em um e-mail?
+        options:
+          - "dash"
+          - "dot"
+          - "at"
+        answer: "dot"
+      - id: 3
+        question: Qual palavra representa arroba em um e-mail?
+        options:
+          - "dot"
+          - "dash"
+          - "at"
+        answer: "at"
+  - type: fill_in_the_blank
+    title: Complete com a palavra correta
+    instructions: Complete as frases com spell, dot, at ou dash.
+    items:
+      - id: 4
+        question: "Can you ___ your name?"
+        answer: "spell"
+      - id: 5
+        question: "My email is leo ___ example dot com."
+        answer: "at"
+      - id: 6
+        question: "The file is app ___ J-S."
+        answer: "dot"
+      - id: 7
+        question: "My username is qa ___ team."
+        answer: "dash"
+  - type: transformation
+    title: Transforme em fala soletrada
+    instructions: Escreva como você diria em inglês técnico simples.
+    items:
+      - id: 8
+        question: "ana@example.com"
+        answer: "ana at example dot com"
+      - id: 9
+        question: "main.py"
+        answer: "main dot P-Y"
+      - id: 10
+        question: "dev-team"
+        answer: "dev dash team"
+  - type: translation
+    title: Tradução curta para o inglês
+    instructions: Traduza mantendo a frase simples.
+    items:
+      - id: 11
+        question: "Você pode repetir isso?"
+        answer: "Can you repeat that?"
+      - id: 12
+        question: "Meu nome de usuário é br-coder."
+        answer: "My username is br dash coder."
+      - id: 13
+        question: "O nome do arquivo é index.html."
+        answer: "The file name is index dot H-T-M-L."
+  - type: short_production
+    title: Produção curta
+    instructions: Responda em inglês com informação sua ou inventada.
+    items:
+      - id: 14
+        question: "Soletre seu primeiro nome usando letras em inglês."
+        answer: "Resposta pessoal. Exemplo: It is spelled M-A-R-I-A."
+      - id: 15
+        question: "Diga um usuário do GitHub com dash."
+        answer: "Resposta pessoal. Exemplo: My GitHub username is dev dash maria."

@@ -1,0 +1,69 @@
+topic: Sons, alfabeto e nomes técnicos
+level: A1
+words:
+  - english: letter
+    translation: letra
+    example: "The letter A is in API."
+    example_translation: "A letra A está em API."
+    note: "Use para falar de uma letra do alfabeto."
+  - english: alphabet
+    translation: alfabeto
+    example: "I know the English alphabet."
+    example_translation: "Eu conheço o alfabeto inglês."
+  - english: spell
+    translation: soletrar
+    example: "Can you spell your name?"
+    example_translation: "Você pode soletrar seu nome?"
+  - english: name
+    translation: nome
+    example: "My name is Ana."
+    example_translation: "Meu nome é Ana."
+  - english: email
+    translation: e-mail
+    example: "My email is ana at example dot com."
+    example_translation: "Meu e-mail é ana@example.com."
+  - english: username
+    translation: nome de usuário
+    example: "My username is dev dash ana."
+    example_translation: "Meu nome de usuário é dev-ana."
+  - english: file name
+    translation: nome de arquivo
+    example: "The file name is report dot P-D-F."
+    example_translation: "O nome do arquivo é report.pdf."
+  - english: dot
+    translation: ponto
+    example: "Say dot in an email address."
+    example_translation: "Diga ponto em um endereço de e-mail."
+    note: "Usado para ponto em e-mails, sites e nomes de arquivo."
+  - english: at
+    translation: arroba
+    example: "My email has at after my name."
+    example_translation: "Meu e-mail tem arroba depois do meu nome."
+  - english: dash
+    translation: hífen
+    example: "Use dash in dev dash team."
+    example_translation: "Use hífen em dev-team."
+  - english: repeat
+    translation: repetir
+    example: "Can you repeat that?"
+    example_translation: "Você pode repetir isso?"
+  - english: API
+    translation: API
+    example: "The API is ready."
+    example_translation: "A API está pronta."
+    note: "Em inglês, soletre A-P-I."
+  - english: UI
+    translation: interface de usuário
+    example: "The UI is simple."
+    example_translation: "A interface de usuário é simples."
+    note: "Em inglês, soletre U-I."
+  - english: URL
+    translation: URL, endereço da web
+    example: "The URL is long."
+    example_translation: "A URL é longa."
+    note: "Em inglês, soletre U-R-L."
+  - english: SQL
+    translation: SQL
+    example: "I use SQL at work."
+    example_translation: "Eu uso SQL no trabalho."
+    note: "Pode ser S-Q-L ou 'sequel', mas S-Q-L é seguro para iniciantes."

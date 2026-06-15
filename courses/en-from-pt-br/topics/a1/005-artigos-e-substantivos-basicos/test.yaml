@@ -1,0 +1,81 @@
+topic: Artigos e substantivos básicos
+level: A1
+questions:
+  - type: multiple_choice
+    question: Qual opção completa corretamente? I need ___ mouse.
+    options:
+      - a
+      - an
+      - the tickets
+    answer: a
+  - type: fill_blank
+    question: This is ___ urgent issue.
+    answer: an
+  - type: multiple_choice
+    question: Qual frase está correta?
+    options:
+      - She has an laptop.
+      - She has a laptop.
+      - She has a laptops.
+    answer: She has a laptop.
+  - type: fill_blank
+    question: one box -> two ___
+    answer: boxes
+  - type: multiple_choice
+    question: Qual é o plural correto de person?
+    options:
+      - persons
+      - personies
+      - people
+    answer: people
+  - type: translation
+    question: "Traduza: A tela está pronta."
+    answer: The screen is ready.
+  - type: fill_blank
+    question: We have three ___ today.
+    answer: meetings
+  - type: correction
+    question: "Corrija: This is a issue."
+    answer: This is an issue.
+  - type: multiple_choice
+    question: Qual opção completa corretamente? ___ tickets are closed.
+    options:
+      - An
+      - The
+      - A
+    answer: The
+  - type: translation
+    question: "Traduza: Temos cinco keyboards."
+    answer: We have five keyboards.
+  - type: fill_blank
+    question: one company -> two ___
+    answer: companies
+  - type: multiple_choice
+    question: Qual frase NÃO deve usar a/an?
+    options:
+      - I have a screen.
+      - I have an email.
+      - I have two screens.
+    answer: I have two screens.
+  - type: correction
+    question: "Corrija: The childs are online."
+    answer: The children are online.
+  - type: translation
+    question: "Traduza: Esta branch é nova."
+    answer: This branch is new.
+  - type: fill_blank
+    question: The ___ are in the office. Use o plural de woman.
+    answer: women
+  - type: multiple_choice
+    question: Qual opção completa corretamente? ___ email is from the manager.
+    options:
+      - The
+      - A
+      - Emails
+    answer: The
+  - type: transformation
+    question: "Transforme para plural: one ticket"
+    answer: tickets
+  - type: correction
+    question: "Corrija: Two mans are in the meeting."
+    answer: Two men are in the meeting.

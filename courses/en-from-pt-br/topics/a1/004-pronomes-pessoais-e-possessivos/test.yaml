@@ -1,0 +1,44 @@
+topic: Pronomes pessoais e possessivos
+level: A1
+questions:
+  - type: multiple_choice
+    question: "Qual opção completa: Bruno is my colleague. ___ is in support."
+    options: [He, She, It]
+    answer: He
+  - type: fill_blank
+    question: "The feature is new. ___ is not ready."
+    answer: It
+  - type: multiple_choice
+    question: "Qual possessivo completa: Julia has a branch. It is ___ branch."
+    options: [his, her, their]
+    answer: her
+  - type: translation
+    question: "Traduza: Nós estamos no time."
+    answer: "We are on the team."
+  - type: multiple_choice
+    question: "Qual opção completa: The developers have a daily meeting. It is ___ meeting."
+    options: [our, your, their]
+    answer: their
+  - type: fill_blank
+    question: "Lia and Tom are engineers. ___ are in the office."
+    answer: They
+  - type: transformation
+    question: "Substitua por pronome: The tool is simple."
+    answer: "It is simple."
+  - type: multiple_choice
+    question: "Qual opção significa nosso/nossa?"
+    options: [your, our, her]
+    answer: our
+  - type: translation
+    question: "Traduza: Meu ticket está fechado."
+    answer: "My ticket is closed."
+  - type: fill_blank
+    question: "I am the project owner. This is ___ project."
+    answer: my
+  - type: multiple_choice
+    question: "Qual pronome usamos para um app?"
+    options: [She, They, It]
+    answer: It
+  - type: translation
+    question: "Traduza: Ele está no laptop dele."
+    answer: "He is on his laptop."

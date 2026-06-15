@@ -1,0 +1,78 @@
+topic: Pronomes pessoais e possessivos
+level: A1
+words:
+  - english: I
+    translation: eu
+    example: I am a developer.
+    example_translation: Eu sou desenvolvedor/desenvolvedora.
+    note: Sempre escreva I com letra maiúscula.
+  - english: you
+    translation: você; vocês
+    example: You are on the team.
+    example_translation: Você está no time.
+    note: Pode ser singular ou plural.
+  - english: he
+    translation: ele
+    example: He is my manager.
+    example_translation: Ele é meu gerente.
+  - english: she
+    translation: ela
+    example: She is a designer.
+    example_translation: Ela é designer.
+  - english: it
+    translation: ele; ela; isso, para coisas
+    example: It is a bug.
+    example_translation: É um bug.
+    note: Use para sistema, app, bug, feature, ferramenta ou repositório.
+  - english: we
+    translation: nós
+    example: We are in a meeting.
+    example_translation: Nós estamos em uma reunião.
+  - english: they
+    translation: eles; elas
+    example: They are testers.
+    example_translation: Eles/elas são testers.
+  - english: my
+    translation: meu; minha
+    example: My laptop is here.
+    example_translation: Meu laptop está aqui.
+  - english: your
+    translation: seu; sua; de vocês
+    example: Your ticket is open.
+    example_translation: Seu ticket está aberto.
+  - english: his
+    translation: dele
+    example: His repository is private.
+    example_translation: O repositório dele é privado.
+  - english: her
+    translation: dela
+    example: Her branch is ready.
+    example_translation: A branch dela está pronta.
+  - english: our
+    translation: nosso; nossa
+    example: Our team is small.
+    example_translation: Nosso time é pequeno.
+  - english: their
+    translation: deles; delas
+    example: Their tool is useful.
+    example_translation: A ferramenta deles/delas é útil.
+  - english: colleague
+    translation: colega de trabalho
+    example: She is my colleague.
+    example_translation: Ela é minha colega de trabalho.
+  - english: team
+    translation: time; equipe
+    example: We are a backend team.
+    example_translation: Nós somos um time de backend.
+  - english: repository
+    translation: repositório
+    example: It is our repository.
+    example_translation: É o nosso repositório.
+  - english: tool
+    translation: ferramenta
+    example: It is a new tool.
+    example_translation: É uma ferramenta nova.
+  - english: feature
+    translation: funcionalidade; feature
+    example: It is a small feature.
+    example_translation: É uma feature pequena.

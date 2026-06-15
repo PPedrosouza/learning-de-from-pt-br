@@ -1,0 +1,109 @@
+topic: Números, datas e horários
+level: A1
+words:
+  - english: zero
+    translation: zero
+    example: The version is one point zero.
+    example_translation: A versão é um ponto zero.
+  - english: one
+    translation: um; uma
+    example: I have one ticket today.
+    example_translation: Eu tenho um ticket hoje.
+  - english: two
+    translation: dois; duas
+    example: We have two meetings.
+    example_translation: Temos duas reuniões.
+  - english: three
+    translation: três
+    example: Three developers are online.
+    example_translation: Três desenvolvedores estão online.
+  - english: ten
+    translation: dez
+    example: The call is at ten.
+    example_translation: A chamada é às dez.
+  - english: twelve
+    translation: doze
+    example: We have twelve tickets in the backlog.
+    example_translation: Temos doze tickets no backlog.
+  - english: twenty
+    translation: vinte
+    example: The sprint has twenty tasks.
+    example_translation: A sprint tem vinte tarefas.
+  - english: thirty
+    translation: trinta
+    example: The meeting is at nine thirty.
+    example_translation: A reunião é às nove e trinta.
+  - english: forty
+    translation: quarenta
+    example: We need forty minutes.
+    example_translation: Precisamos de quarenta minutos.
+    note: "A grafia correta é `forty`, sem `u`."
+  - english: one hundred
+    translation: cem
+    example: The report has one hundred lines.
+    example_translation: O relatório tem cem linhas.
+  - english: one thousand
+    translation: mil
+    example: The test uses one thousand users.
+    example_translation: O teste usa mil usuários.
+  - english: at 9
+    translation: às 9
+    example: The stand-up is at 9.
+    example_translation: A stand-up é às 9.
+    note: "Use `at` para horários exatos."
+  - english: at noon
+    translation: ao meio-dia
+    example: The deploy is at noon.
+    example_translation: O deploy é ao meio-dia.
+  - english: on Monday
+    translation: na segunda-feira
+    example: The sprint starts on Monday.
+    example_translation: A sprint começa na segunda-feira.
+    note: "Use `on` para dias da semana."
+  - english: on Friday
+    translation: na sexta-feira
+    example: The review is on Friday.
+    example_translation: A review é na sexta-feira.
+  - english: in June
+    translation: em junho
+    example: The release is in June.
+    example_translation: O lançamento é em junho.
+    note: "Use `in` para meses."
+  - english: on June 10
+    translation: em 10 de junho
+    example: The demo is on June 10.
+    example_translation: A demo é em 10 de junho.
+    note: "Use `on` para datas específicas."
+  - english: sprint
+    translation: sprint
+    example: The sprint ends on Friday.
+    example_translation: A sprint termina na sexta-feira.
+  - english: stand-up
+    translation: stand-up; reunião diária rápida
+    example: The stand-up is at 9 BRT.
+    example_translation: A stand-up é às 9 BRT.
+  - english: meeting
+    translation: reunião
+    example: The meeting is at 10:30.
+    example_translation: A reunião é às 10:30.
+  - english: version
+    translation: versão
+    example: Version 1.2 is ready.
+    example_translation: A versão 1.2 está pronta.
+  - english: point
+    translation: ponto
+    example: Version two point zero is stable.
+    example_translation: A versão dois ponto zero está estável.
+    note: "Em versões, `point` lê o ponto entre números."
+  - english: timezone
+    translation: fuso horário
+    example: What is your timezone?
+    example_translation: Qual é o seu fuso horário?
+  - english: BRT
+    translation: horário de Brasília
+    example: I am in BRT.
+    example_translation: Estou no BRT.
+  - english: UTC
+    translation: tempo universal coordenado
+    example: The server uses UTC.
+    example_translation: O servidor usa UTC.

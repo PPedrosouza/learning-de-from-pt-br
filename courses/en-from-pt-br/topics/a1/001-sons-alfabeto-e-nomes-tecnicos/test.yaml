@@ -1,0 +1,59 @@
+topic: Sons, alfabeto e nomes técnicos
+level: A1
+questions:
+  - id: 1
+    type: multiple_choice
+    question: Qual frase você usa para pedir soletração em uma reunião?
+    options:
+      - "Can you spell that?"
+      - "Can you build that?"
+      - "Can you send that?"
+    answer: "Can you spell that?"
+  - id: 2
+    type: multiple_choice
+    question: Em inglês, como você diz o ponto em beta.app?
+    options:
+      - "at"
+      - "dot"
+      - "dash"
+    answer: "dot"
+  - id: 3
+    type: multiple_choice
+    question: Como você pode dizer a sigla URL letra por letra?
+    options:
+      - "Y-R-L"
+      - "U-I"
+      - "U-R-L"
+    answer: "U-R-L"
+  - id: 4
+    type: multiple_choice
+    question: Qual opção representa hífen em um nome de usuário?
+    options:
+      - "dash"
+      - "dot"
+      - "at"
+    answer: "dash"
+  - id: 5
+    type: fill_in_the_blank
+    question: "My email is nina ___ company dot com."
+    answer: "at"
+  - id: 6
+    type: fill_in_the_blank
+    question: "Can you ___ that, please?"
+    answer: "repeat"
+  - id: 7
+    type: translation
+    question: "Traduza: Meu e-mail é joao@work.com."
+    answer: "My email is joao at work dot com."
+  - id: 8
+    type: transformation
+    question: "Escreva como falar o arquivo: server.log"
+    answer: "server dot L-O-G"
+  - id: 9
+    type: short_answer
+    question: "Como você soletra API em inglês?"
+    answer: "A-P-I"
+  - id: 10
+    type: short_production
+    question: "Escreva uma frase para informar um nome de arquivo em inglês."
+    answer: "Resposta possível: The file name is readme dot M-D."

@@ -1,0 +1,134 @@
+topic: Artigos e substantivos básicos
+level: A1
+exercises:
+  - type: multiple_choice
+    instruction: Escolha o artigo correto.
+    items:
+      - question: ___ laptop is on the desk.
+        options:
+          - A
+          - An
+          - Two
+        answer: A
+      - question: This is ___ email from support.
+        options:
+          - a
+          - an
+          - the emails
+        answer: an
+      - question: ___ screen is blue.
+        options:
+          - An
+          - A screens
+          - The
+        answer: The
+      - question: We need ___ keyboard.
+        options:
+          - a
+          - an
+          - tickets
+        answer: a
+
+  - type: fill_blank
+    instruction: Complete com a, an ou the.
+    items:
+      - question: I have ___ ticket.
+        answer: a
+      - question: This is ___ issue.
+        answer: an
+      - question: ___ meeting starts now.
+        answer: The
+      - question: She has ___ office laptop.
+        answer: an
+      - question: We need ___ branch for the fix.
+        answer: a
+      - question: ___ keyboard is new.
+        answer: The
+
+  - type: fill_blank
+    instruction: Escreva o plural correto.
+    items:
+      - question: one laptop -> two ___
+        answer: laptops
+      - question: one screen -> three ___
+        answer: screens
+      - question: one ticket -> five ___
+        answer: tickets
+      - question: one branch -> two ___
+        answer: branches
+      - question: one company -> four ___
+        answer: companies
+      - question: one person -> six ___
+        answer: people
+
+  - type: multiple_choice
+    instruction: Escolha a frase correta em inglês.
+    items:
+      - question: Eu tenho um laptop.
+        options:
+          - I have a laptop.
+          - I have an laptop.
+          - I have a laptops.
+        answer: I have a laptop.
+      - question: Isto é um e-mail.
+        options:
+          - This is a email.
+          - This is an email.
+          - This is emails.
+        answer: This is an email.
+      - question: As branches são novas.
+        options:
+          - The branch are new.
+          - A branches are new.
+          - The branches are new.
+        answer: The branches are new.
+      - question: Duas pessoas estão na reunião.
+        options:
+          - Two people are in the meeting.
+          - Two persons is in the meeting.
+          - A people are in the meeting.
+        answer: Two people are in the meeting.
+
+  - type: translation
+    instruction: Traduza para o inglês.
+    items:
+      - question: O teclado é novo.
+        answer: The keyboard is new.
+      - question: Temos dois tickets.
+        answer: We have two tickets.
+      - question: Esta é uma branch.
+        answer: This is a branch.
+      - question: A reunião é hoje.
+        answer: The meeting is today.
+      - question: Quatro pessoas estão online.
+        answer: Four people are online.
+      - question: Eu tenho um e-mail.
+        answer: I have an email.
+
+  - type: transformation
+    instruction: Transforme do singular para o plural.
+    items:
+      - question: a laptop -> two ___
+        answer: laptops
+      - question: a meeting -> three ___
+        answer: meetings
+      - question: a woman -> two ___
+        answer: women
+      - question: a man -> two ___
+        answer: men
+      - question: a child -> three ___
+        answer: children
+
+  - type: correction
+    instruction: Corrija a frase errada.
+    items:
+      - question: I have an laptop.
+        answer: I have a laptop.
+      - question: We have a tickets.
+        answer: We have tickets.
+      - question: This is a email.
+        answer: This is an email.
+      - question: The branchs are ready.
+        answer: The branches are ready.
+      - question: Two persons are in the call.
+        answer: Two people are in the call.

@@ -1,0 +1,106 @@
+topic: Artigos e substantivos básicos
+level: A1
+words:
+  - english: a laptop
+    translation: um laptop
+    example: I have a laptop.
+    example_translation: Eu tenho um laptop.
+    note: "Use `a` antes de singular com som inicial de consoante."
+  - english: an email
+    translation: um e-mail
+    example: This is an email from Ana.
+    example_translation: Este é um e-mail da Ana.
+    note: "Use `an` antes de som inicial de vogal."
+  - english: the keyboard
+    translation: o teclado
+    example: The keyboard is new.
+    example_translation: O teclado é novo.
+    note: "Use `the` para algo específico ou já conhecido."
+  - english: screen
+    translation: tela
+    example: The screen is big.
+    example_translation: A tela é grande.
+  - english: meeting
+    translation: reunião
+    example: The meeting starts at nine.
+    example_translation: A reunião começa às nove.
+  - english: ticket
+    translation: ticket; chamado
+    example: I have a ticket for support.
+    example_translation: Eu tenho um ticket para o suporte.
+  - english: branch
+    translation: branch; ramificação
+    example: This branch is ready.
+    example_translation: Esta branch está pronta.
+    note: "Em contexto de software, `branch` pode ser uma ramificação de código."
+  - english: laptops
+    translation: laptops
+    example: We have two laptops.
+    example_translation: Nós temos dois laptops.
+    note: "Plural regular com `-s`."
+  - english: keyboards
+    translation: teclados
+    example: The keyboards are on the desk.
+    example_translation: Os teclados estão na mesa.
+  - english: screens
+    translation: telas
+    example: Three screens are active.
+    example_translation: Três telas estão ativas.
+  - english: meetings
+    translation: reuniões
+    example: We have two meetings today.
+    example_translation: Temos duas reuniões hoje.
+  - english: tickets
+    translation: tickets; chamados
+    example: The tickets are urgent.
+    example_translation: Os tickets são urgentes.
+  - english: branches
+    translation: branches; ramificações
+    example: The branches are different.
+    example_translation: As branches são diferentes.
+    note: "Substantivos terminados em `-ch` geralmente recebem `-es`."
+  - english: company
+    translation: empresa
+    example: The company is small.
+    example_translation: A empresa é pequena.
+  - english: companies
+    translation: empresas
+    example: Two companies use this app.
+    example_translation: Duas empresas usam este aplicativo.
+    note: "`company` vira `companies`."
+  - english: person
+    translation: pessoa
+    example: One person is in the office.
+    example_translation: Uma pessoa está no escritório.
+  - english: people
+    translation: pessoas
+    example: Five people are in the meeting.
+    example_translation: Cinco pessoas estão na reunião.
+    note: "Plural irregular de `person`."
+  - english: man
+    translation: homem
+    example: The man has a laptop.
+    example_translation: O homem tem um laptop.
+  - english: men
+    translation: homens
+    example: Two men are in the office.
+    example_translation: Dois homens estão no escritório.
+    note: "Plural irregular de `man`."
+  - english: woman
+    translation: mulher
+    example: The woman has a ticket.
+    example_translation: A mulher tem um ticket.
+  - english: women
+    translation: mulheres
+    example: Three women are in the team.
+    example_translation: Três mulheres estão na equipe.
+    note: "Plural irregular de `woman`."
+  - english: child
+    translation: criança
+    example: The child has a tablet.
+    example_translation: A criança tem um tablet.
+  - english: children
+    translation: crianças
+    example: The children use a screen.
+    example_translation: As crianças usam uma tela.
+    note: "Plural irregular de `child`."
